@@ -1,0 +1,2 @@
+A web based calculator created using HTML for the framework, CSS to style and JavaScript for interactivity and displaying functions correctly. I followed the tutorial "How To Make A Calculator Using HTML CSS And JavaScript
+" by GreatStack. This taught me how to create a basic frame for the calculator and how important the order of divs and their classes are especially when styling with CSS. I was able to bring functionality to the buttons by using the .value JavaScript function. 
